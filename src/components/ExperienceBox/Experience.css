@@ -1,0 +1,11 @@
+.ExperienceBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 2px dotted white;
+  color: white;
+  height: 130px;
+  width: 200px;
+  border-radius: 10px;
+}
